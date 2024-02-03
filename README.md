@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hi there. I'm Vitaly 👋
 
-About
+## I'm a Java Developer. 
+# Clean Code, Clear Results - See My Work on GitHub.
 <!--
 **vburcovschi/vburcovschi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
