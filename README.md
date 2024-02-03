@@ -1,13 +1,12 @@
+## Java: Powering Digital Transformation, Built on Personal Experience.
+
 ### Hi there. I'm Vitaly 👋
 
 ### About me:
 
-#### :man_technologist: I'm a Java Developer. 
-#### Clean Code, Clear Results - See My Work on GitHub.
+#### :man_technologist: IT expert with 20 years of experience in application development, client application management, telecommunication equipment management, and enterprise infrastructure implementation and management. Skilled in business process digitization and information systems development. Passionate about projects involving the use of JAVA for automation and digitization of business processes.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-@vburcovschi-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vburcovschi)
+:mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-@vburcovschi-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vburcovschi)
 
 ### :hammer_and_wrench: Languages and Tools :
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
