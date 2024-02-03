@@ -7,7 +7,7 @@
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-vburcovschi-blue?style=flat&logo=Telegram&logoColor=white)]((https://t.me/vburcovschi))
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-@vburcovschi-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vburcovschi)
 
 
 ### My IT background
