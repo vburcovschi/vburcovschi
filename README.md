@@ -51,7 +51,9 @@
   
 <img src="https://komarev.com/ghpvc/?username=vburcovschi&style=flat-square&color=blue" alt=""/>
 
-
+### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vburcovschi&theme=dark&border_radius=4.7&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vburcovschi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **vburcovschi/vburcovschi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
