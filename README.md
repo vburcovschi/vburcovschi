@@ -44,7 +44,7 @@
 
 ### My IT background:
 <div id="badges">
-  <a href="[www.linkedin.com/in/vitalie-burcovschi-2623791b](https://www.linkedin.com/in/vitalie-burcovschi23/)">
+  <a href="(https://www.linkedin.com/in/vitalie-burcovschi23/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
   
